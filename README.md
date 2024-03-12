@@ -1,8 +1,8 @@
 # DS-ML-DL
-This container contains the information and codes which were gathered while exploring the topic
+This repository contains the information and codes which were gathered while exploring the topic
 ## Table of contents
-1. First Category
-   **a. sub-category**
+1. ML for AlgpTraiding 
+   - a. sub-category
    -
    - b. sub-category
 3. Second Category
