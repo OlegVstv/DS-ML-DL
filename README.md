@@ -8,5 +8,7 @@ This repository contains the information and codes which were gathered while exp
    - Градиентный бустинг (GBM) с нуля на Python. Особенности (XGBoost, CatBoost, LightGBM) [сюда](https://habr.com/ru/articles/799725/)
    - Наиболее применимые алгоритмы МО на практике [сюда](https://proglib.io/p/5-klassicheskih-algoritmov-mashinnogo-obucheniya-o-kotoryh-vam-obyazatelno-sleduet-znat-2022-08-16)
 5. Курсы обучения по МО
-   - Курсы на Kaggle
-   - Курс по МО от OpenDataScience (ODS) [сюда](https://habr.com/ru/companies/ods/articles/322626/)
+   - Курсы на Kaggle (en)
+   - Курсы Microsoft [AI for Beginners](https://github.com/microsoft/AI-For-Beginners?tab=readme-ov-file) en
+   - Вводный курс МО от Дмитрия Макаров [сюда](https://www.youtube.com/playlist?list=PLX9afROa9MG19JK0JMoy4tIrHvx_z6dHZ)
+   - Курс по МО от OpenDataScience (ODS) [сюда](https://habr.com/ru/companies/ods/articles/322626/) (ru)
