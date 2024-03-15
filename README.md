@@ -14,3 +14,4 @@ This repository contains the information and codes which were gathered while exp
    - Вводный курс МО от Дмитрия Макаров [сюда](https://www.youtube.com/playlist?list=PLX9afROa9MG19JK0JMoy4tIrHvx_z6dHZ) (ru)
    - Курс по МО от OpenDataScience (ODS) [сюда](https://habr.com/ru/companies/ods/articles/322626/) (ru)
    - Анализ данных на Python в примерах и задачах (CSC) [сюда](https://www.youtube.com/playlist?list=PLlb7e2G7aSpRb95_Wi7lZ-zA6fOjV3_l7) (ru)
+   - Курс «Машинное обучение» 2019 (Яндекс) [сюда](https://www.youtube.com/playlist?list=PLJOzdkh8T5krxc4HsHbB8g8f0hu7973fK)
