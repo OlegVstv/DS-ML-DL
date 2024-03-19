@@ -18,3 +18,5 @@ This repository contains the information and codes which were gathered while exp
 6. Ресурсы ИИ
    - MLsys [сюда](https://arena.lmsys.org/) - сравнение разных реализаций
    - Gemini
+7. Специлизированные ресурсы с данными (датасеты)
+   - https://dateno.io/
