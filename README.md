@@ -20,3 +20,5 @@ This repository contains the information and codes which were gathered while exp
    - Gemini
 7. Специализированные ресурсы с данными (датасеты)
    - https://dateno.io/
+8. Парсинг данных
+   - Мини-курс по парсингу или скрэппингу данных от Python today [здесь](https://www.youtube.com/playlist?list=PLqGS6O1-DZLprgEaEeKn9BWKZBvzVi_la)
